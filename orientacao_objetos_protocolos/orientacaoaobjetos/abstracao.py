@@ -1,4 +1,5 @@
 # Abstração
+# Capacidade de abstratir implementações
 class Person:
     kingdom = "animalia"
 
