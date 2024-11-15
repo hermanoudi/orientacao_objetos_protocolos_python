@@ -36,4 +36,5 @@ currencies = ["BRL", "USD"]
 rates = get_rates(currencies)
 
 # retorna o valor do dolar em reais
+print(rates)
 print(rates[currencies[0]].value)
